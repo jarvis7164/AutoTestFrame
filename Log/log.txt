@@ -1,0 +1,94 @@
+2022-03-27 11:19:58,897 - main - Log.py[line:32] - INFO - log test----------
+2022-03-27 12:15:09,899 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 12:23:54,935 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:36:21,202 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:46:27,479 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:46:54,800 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:48:47,322 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:49:13,412 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:49:17,661 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:51:43,830 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:52:26,364 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:54:46,249 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:55:35,339 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:56:13,191 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 13:57:45,847 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:01:38,242 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:02:30,770 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:04:43,251 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:05:19,275 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:06:37,333 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:07:19,656 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:12:08,430 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:16:35,280 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:33:10,770 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:35:36,022 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:35:51,575 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:36:30,784 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:37:02,743 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:37:47,901 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:39:26,088 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:39:57,756 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:40:52,431 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:41:05,720 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:45:08,653 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:47:52,737 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:48:21,029 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:55:27,616 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:56:32,660 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:57:11,003 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:57:56,846 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 14:58:50,581 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:03:42,941 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:03:58,726 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:10:00,283 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:10:48,219 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:13:31,834 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:14:09,759 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:14:21,591 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:14:32,378 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:14:40,712 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:14:57,436 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:15:03,822 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:15:25,203 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:15:34,277 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:16:18,680 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:16:28,581 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:16:31,526 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:18:09,245 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:18:24,500 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:18:44,402 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 15:19:44,714 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 18:05:35,833 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 18:06:13,204 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 18:06:33,021 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 18:08:47,424 - main - Log.py[line:34] - INFO - log test----------
+2022-03-27 18:08:59,692 - main.jd - test_search_jd.py[line:75] - ERROR - error info : Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@class='p-name p-name-type-2']/a/em"}
+  (Session info: chrome=98.0.4758.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0038FDC3+2555331]
+	Ordinal0 [0x003277F1+2127857]
+	Ordinal0 [0x00222E08+1060360]
+	Ordinal0 [0x0024E49E+1238174]
+	Ordinal0 [0x0024E69B+1238683]
+	Ordinal0 [0x00244A01+1198593]
+	Ordinal0 [0x00267B54+1342292]
+	Ordinal0 [0x00244984+1198468]
+	Ordinal0 [0x00267C14+1342484]
+	Ordinal0 [0x002775FA+1406458]
+	Ordinal0 [0x00267976+1341814]
+	Ordinal0 [0x002436B6+1193654]
+	Ordinal0 [0x00244546+1197382]
+	GetHandleVerifier [0x00529622+1619522]
+	GetHandleVerifier [0x005D882C+2336844]
+	GetHandleVerifier [0x004223E1+541697]
+	GetHandleVerifier [0x00421443+537699]
+	Ordinal0 [0x0032D18E+2150798]
+	Ordinal0 [0x00331518+2168088]
+	Ordinal0 [0x00331660+2168416]
+	Ordinal0 [0x0033B330+2208560]
+	BaseThreadInitThunk [0x7686FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77997A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77997A6E+238]
+
